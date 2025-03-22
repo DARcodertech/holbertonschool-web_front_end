@@ -1,26 +1,26 @@
 html {
     scroll-behavior: smooth;
-   }
+}
 
 body {
     color: var(--text-color)
-  }
+}
   
 a {
     color: var(--text-color)
-  }
+}
 
 .visually-hidden {
     display: none;
-  }
+}
 
 .card-category {
     color: var(--color-primary)
-  }
+}
 
 .section-tagline {
     color: var(--color-primary)
-  }
+}
 
 :root {
     --color-primary: #d73953;
@@ -28,4 +28,4 @@ a {
     --color-white: #ffffff;
     --color-white-grey: #353535;
     --text-color: var(--color-black)
-    }
+}
